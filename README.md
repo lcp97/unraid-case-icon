@@ -17,9 +17,9 @@ Two color variants are included so the icon looks right on every Unraid theme.
 
 ## Installation
 
-1. Go to **Settings → Display Settings → Case Model → Custom**
-2. Upload the `.png` that matches your theme (see table above)
-3. Done — the icon appears on the Dashboard immediately
+1. Go to your Unraid **Dashboard** and click the case icon at the top
+2. Select **Custom** and upload the `.png` that matches your theme (see table above)
+3. Done — the icon appears immediately
 
 On the filesystem the file lands at `/boot/config/plugins/dynamix/case-model.png`.
 
