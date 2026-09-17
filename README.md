@@ -58,7 +58,7 @@ On the filesystem the file lands at `/boot/config/plugins/dynamix/case-model.png
 Each icon reproduces the front panel of the corresponding case:
 
 - **N2** — smooth top panel, command strip (USB-A, USB-C, power), diagonal ventilation slats
-- **N3** — split front: left panel with horizontal ventilation slits, right side with mesh top, command strip, and diagonal slats
+- **N3** — mesh panel (upper), command strip (USB-A, USB-C, power, 8 LEDs), diagonal ventilation slats (lower)
 - **N4** — walnut wood panel (upper) with power button and USB-A, dot mesh grid (lower)
 - **N5** — large mesh panel (upper), command strip (power, USB-A, USB-C, 7 LEDs), horizontal wood slats (lower)
 - **N6** — mesh panel (upper), command strip (USB-A, USB-C, power, 9 LEDs), diagonal ventilation slats (lower)
