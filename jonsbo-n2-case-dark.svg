@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
 <title>Jonsbo N2 — Unraid case icon</title>
-<g fill="#ffffff" stroke="none">
+<g fill="#262626" stroke="none">
 <rect x="94" y="445" width="40" height="14" rx="4"/>
 <rect x="372" y="445" width="40" height="14" rx="4"/>
 <path d="M411.79 220 L417 225.21 L417 231.72 L405.28 220 Z"/>
@@ -35,7 +35,7 @@
 <path fill-rule="evenodd" d="M86 179 H426 A4 4 0 0 1 430 183 V203 A4 4 0 0 1 426 207 H86 A4 4 0 0 1 82 203 V183 A4 4 0 0 1 86 179 Z M201.5 190 H212.5 A1.5 1.5 0 0 1 214 191.5 V194.5 A1.5 1.5 0 0 1 212.5 196 H201.5 A1.5 1.5 0 0 1 200 194.5 V191.5 A1.5 1.5 0 0 1 201.5 190 Z M242.5 190.5 H248.5 A2.5 2.5 0 0 1 251 193 V193 A2.5 2.5 0 0 1 248.5 195.5 H242.5 A2.5 2.5 0 0 1 240 193 V193 A2.5 2.5 0 0 1 242.5 190.5 Z M281.5 193 A8.5 8.5 0 1 0 298.5 193 A8.5 8.5 0 1 0 281.5 193 Z"/>
 <circle cx="290" cy="193" r="3.5"/>
 </g>
-<g fill="none" stroke="#ffffff" stroke-linejoin="round">
+<g fill="none" stroke="#262626" stroke-linejoin="round">
 <rect x="76" y="36" width="360" height="420" rx="14" stroke-width="10"/>
 <rect x="90" y="52" width="332" height="115" rx="6" stroke-width="6"/>
 <rect x="90" y="215" width="332" height="233" rx="6" stroke-width="6"/>

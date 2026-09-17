@@ -1,45 +1,52 @@
 # Unraid Case Icons — Jonsbo N-Series
 
-Custom case icons for the **Jonsbo N-series NAS cases** (N2, N3, N4, N5, N6) in the native Unraid style: flat monochromatic silhouettes on a transparent background, no gradients or shadows.
+Custom case icons for the **Jonsbo N-series NAS cases** (N1, N2, N3, N4, N5, N6) in the native Unraid style: flat monochromatic silhouettes on a transparent background, no gradients or shadows.
 
 Two color variants per model so the icon looks right on every Unraid theme.
 
 ## Files
+
+### Jonsbo N1
+
+| File | Variant | Use with themes |
+|---|---|---|
+| `jonsbo-n1-case.png` | White | Black, Azure (dark themes) |
+| `jonsbo-n1-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 ### Jonsbo N2
 
 | File | Variant | Use with themes |
 |---|---|---|
 | `jonsbo-n2-case.png` | White | Black, Azure (dark themes) |
-| `jonsbo-n2-case-scura.png` | Dark (`#262626`) | White, Gray (light themes) |
+| `jonsbo-n2-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 ### Jonsbo N3
 
 | File | Variant | Use with themes |
 |---|---|---|
 | `jonsbo-n3-case.png` | White | Black, Azure (dark themes) |
-| `jonsbo-n3-case-scura.png` | Dark (`#262626`) | White, Gray (light themes) |
+| `jonsbo-n3-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 ### Jonsbo N4
 
 | File | Variant | Use with themes |
 |---|---|---|
 | `jonsbo-n4-case.png` | White | Black, Azure (dark themes) |
-| `jonsbo-n4-case-scura.png` | Dark (`#262626`) | White, Gray (light themes) |
+| `jonsbo-n4-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 ### Jonsbo N5
 
 | File | Variant | Use with themes |
 |---|---|---|
 | `jonsbo-n5-case.png` | White | Black, Azure (dark themes) |
-| `jonsbo-n5-case-scura.png` | Dark (`#262626`) | White, Gray (light themes) |
+| `jonsbo-n5-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 ### Jonsbo N6
 
 | File | Variant | Use with themes |
 |---|---|---|
-| `rivoli3-server-case.png` | White | Black, Azure (dark themes) |
-| `rivoli3-server-case-scura.png` | Dark (`#262626`) | White, Gray (light themes) |
+| `jonsbo-n6-case.png` | White | Black, Azure (dark themes) |
+| `jonsbo-n6-case-dark.png` | Dark (`#262626`) | White, Gray (light themes) |
 
 > **Why two variants?** Unraid's custom case icon is a plain PNG — it doesn't adapt its color to the active theme the way the built-in webfont icons do. Pick the variant that contrasts with your theme's background.
 
@@ -57,6 +64,7 @@ On the filesystem the file lands at `/boot/config/plugins/dynamix/case-model.png
 
 Each icon reproduces the front panel of the corresponding case:
 
+- **N1** — brushed aluminum panel surrounded by a symmetric perforated mesh frame, command strip (power, USB-A, audio, USB-C) at the bottom of the panel
 - **N2** — smooth top panel, command strip (USB-A, USB-C, power), diagonal ventilation slats
 - **N3** — mesh panel (upper), command strip (USB-A, USB-C, power, 8 LEDs), diagonal ventilation slats (lower)
 - **N4** — walnut wood panel (upper) with power button and USB-A, dot mesh grid (lower)
